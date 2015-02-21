@@ -1,0 +1,60 @@
+.titulos{
+
+	color: blue;
+	font-family: cursive;
+	font-style: inherit;
+
+
+}
+
+
+.enlaces{
+	color: #8e8080;
+	font-family: sans-serif;
+	font-style: oblique;
+	font-size: 40px;
+
+
+}
+
+#Unico{
+	background: #006600;
+	font-family: verdana,arial;
+	font-size: 10px;
+	font-style: italic;
+}
+
+.Texto{
+	text-decoration: underline;
+	font-family: sans-serif;
+	font-style: italic;
+	color: orange;
+	font-size: 15px;
+}
+
+#lista{
+	list-style-type: square; 
+
+}
+
+#item{
+	list-style-image: url("1.png");
+	font-family: fantasy;
+	color: blue;
+}
+#item2{
+	list-style-type: lower-roman;
+	font-family: fantasy;
+	color: red;
+}
+
+.elegante {
+	padding: 14px;
+	margin: o auto;
+
+}
+
+.div{
+margin: 2px;
+
+}
